@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\source\repos\stop\stop\bin\Debug\stop.exe.config
+C:\Users\Дмитрий\source\repos\stop\stop\bin\Debug\stop.exe
+C:\Users\Дмитрий\source\repos\stop\stop\bin\Debug\stop.pdb
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.Form1.resources
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.Form2.resources
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.Form3.resources
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.exe
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.pdb
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.Form4.resources
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.Form5.resources
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.Form6.resources
+C:\Users\Дмитрий\source\repos\stop\stop\obj\Debug\stop.Form7.resources
